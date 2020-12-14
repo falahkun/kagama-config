@@ -1,0 +1,197 @@
+{
+  "HorizonLayout": [
+    {
+      "layout": "logo",
+      "showMenu": true,
+      "showSearch": false,
+      "showLogo": true,
+      "color": "#fffff"
+    },
+    {
+      "layout": "header_search",
+      "text": "Search for a product"
+    },
+    {
+      "layout": "bannerImage",
+      "isSlider": true,
+      "autoPlay": false,
+      "showNumber": false,
+      "design": "default",
+      "showBackGround": true,
+      "radius": 2.0,
+      "height": 0.15,
+      "items": [
+        {
+          "category": 313,
+          "image": "https://kagama.lunaz.id/wp-content/uploads/2018/08/56dfe6b9-e680-4327-8ff7-eef1fdaa8c27-1024x256.jpg",
+          "padding": 15.0
+        },
+        {
+          "category": 313,
+          "image": "https://kagama.lunaz.id/wp-content/uploads/2020/12/4dc664e7-c17d-410f-8259-986940151f55-1024x256.jpg",
+          "padding": 15.0
+        },
+        {
+          "category": 313,
+          "image": "https://kagama.lunaz.id/wp-content/uploads/2018/08/2df4a757-7076-4b09-b096-b76168efedca-1024x256.jpg",
+          "padding": 15.0
+        }
+      ]
+    },
+    {
+      "layout": "category",
+      "type": "icon",
+      "wrap": false,
+      "size": 1.2,
+      "radius": 50.0,
+      "noBackground": true,
+      "columns": 4,
+      "padding": 10.0,
+      "items": [
+        {
+          "category": 15,
+          "image": "assets/kagama/category/produk-inovasi.png",
+          "name": "Produk Inovasi",
+          "colors": [
+            "#3CC2BF",
+            "#3CC2BF"
+          ],
+          "originalColor": true
+        },
+        {
+          "category": 63,
+          "name": "Buku",
+          "image": "assets/kagama/category/buku.png",
+          "colors": [
+            "#3E6AB5",
+            "#3E6AB5"
+          ],
+          "originalColor": true
+        },
+        {
+          "category": 94,
+          "name": "Fashion",
+          "image": "assets/kagama/category/fashion.png",
+          "colors": [
+            "#53A2CC",
+            "#53A2CC"
+          ],
+          "originalColor": true
+        },
+        {
+          "category": 42,
+          "name": "Jasa Konsultan",
+          "image": "assets/kagama/category/jasa-konsultasi.png",
+          "colors": [
+            "#53688A",
+            "#53688A"
+          ],
+          "originalColor": true
+        },
+        {
+          "category": 41,
+          "name": "Kesehatan",
+          "image": "assets/kagama/category/kesehatan.png",
+          "colors": [
+            "#43506A",
+            "#43506A"
+          ],
+          "originalColor": true
+        },
+        {
+          "category": 39,
+          "name": "Makanan dan Minuman",
+          "image": "assets/kagama/category/makanan-minuman.png",
+          "colors": [
+            "#12B58C",
+            "#12B58C"
+          ],
+          "originalColor": true
+        },
+        {
+          "category": 40,
+          "name": "Teknologi Informasi",
+          "image": "assets/kagama/category/teknologi-informasi.png",
+          "colors": [
+            "#3CC2BF",
+            "#3CC2BF"
+          ],
+          "originalColor": true
+        },
+        {
+          "category": 96,
+          "name": "Wisata dan Kuliner",
+          "image": "assets/kagama/category/wisata-kuliner.png",
+          "colors": [
+            "#3E6AB5",
+            "#3E6AB5"
+          ],
+          "originalColor": true
+        }
+      ]
+    },
+    {
+      "name": "Recent View",
+      "layout": "recentView"
+    },
+    {
+      "name": "Latest Products",
+      "image": "",
+      "layout": "twoColumn",
+      "isSnapping": true,
+      "category": null
+    },
+    {
+      "layout": "bannerImage",
+      "items": [
+        {
+          "category": 537,
+          "image": "https://trello-attachments.s3.amazonaws.com/5dc3cfb1d013e9228256a65f/1200x800/255ec2cd585923a96b2c722833f85319/background1.jpg",
+          "padding": 5.0
+        },
+        {
+          "category": 538,
+          "image": "https://trello-attachments.s3.amazonaws.com/5dc3cfb1d013e9228256a65f/1200x801/e40b5ebaad35cbb306eef65bcf8953e0/background2.jpg",
+          "padding": 5.0,
+          "featured": true
+        }
+      ]
+    }
+  ],
+  "Setting": {
+    "MainColor": "#015278",
+    "ProductListLayout": "list",
+    "StickyHeader": false,
+    "ShowChat": false
+  },
+  "TabBar": [
+    {
+      "layout": "home",
+      "icon": "assets/icons/tabs/icon-home.png"
+    },
+    {
+      "layout": "vendors",
+      "categoryLayout": "sideMenuWithSub",
+      "icon": "assets/icons/tabs/icon-category.png"
+    },
+    {
+      "layout": "search",
+      "icon": "assets/icons/tabs/icon-search.png"
+    },
+    {
+      "layout": "cart",
+      "icon": "assets/icons/tabs/icon-cart2.png"
+    },
+    {
+      "layout": "profile",
+      "icon": "assets/icons/tabs/icon-user.png",
+      "showChat": true
+    }
+  ],
+  "searchSuggestion": [
+    "man",
+    "dress",
+    "Stitch",
+    "ma"
+  ]
+}
