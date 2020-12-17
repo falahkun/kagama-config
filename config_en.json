@@ -22,18 +22,11 @@
       "height": 0.15,
       "items": [
         {
-          "category": 313,
-          "image": "https://kagama.lunaz.id/wp-content/uploads/2018/08/56dfe6b9-e680-4327-8ff7-eef1fdaa8c27-1024x256.jpg",
+          "image": "https://kagama.lunaz.id/wp-content/uploads/2020/12/slide1.png",
           "padding": 15.0
         },
         {
-          "category": 313,
-          "image": "https://kagama.lunaz.id/wp-content/uploads/2020/12/4dc664e7-c17d-410f-8259-986940151f55-1024x256.jpg",
-          "padding": 15.0
-        },
-        {
-          "category": 313,
-          "image": "https://kagama.lunaz.id/wp-content/uploads/2018/08/2df4a757-7076-4b09-b096-b76168efedca-1024x256.jpg",
+          "image": "https://kagama.lunaz.id/wp-content/uploads/2020/12/slide23.png",
           "padding": 15.0
         }
       ]
@@ -131,11 +124,11 @@
       ]
     },
     {
-      "name": "Recent View",
+      "name": "Terakhir dilihat",
       "layout": "recentView"
     },
     {
-      "name": "Latest Products",
+      "name": "Produk Baru",
       "image": "",
       "layout": "twoColumn",
       "isSnapping": true,
